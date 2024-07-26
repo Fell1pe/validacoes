@@ -9,6 +9,7 @@ Caso esses elementos fossem verdadeiros o código informaria ao usuario que o em
 obs: toda essa aplicação foi alocada por meio do onblur dentro de um input.
 
 **cpf:**
+
 após receber um número de CPF como entrada, ela remove todos os caracteres não numéricos e verifica se o número possui 11 dígitos. Em seguida, calcula os dígitos verificadores do CPF utilizando os algoritmos padrão e compara os resultados com os dígitos verificadores informados. Se todos os cálculos baterem, o CPF é considerado válido. Caso contrário, a função retorna que o CPF é inválido. Essa validação é essencial para evitar erros de digitação e garantir a segurança dos dados.
 
 
